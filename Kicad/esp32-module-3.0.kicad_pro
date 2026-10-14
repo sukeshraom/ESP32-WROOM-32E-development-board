@@ -672,7 +672,7 @@
         "uuid": "c6eef429-7261-42cb-99e1-d6c93b71b533"
       }
     ],
-    "used_designators": "#PWR1-13,A1,C12v1,C5ch1,C3.3v1,s1,Rrst1,C33v1,C3v1,C5v1,ch1,Crst1,J1-3,led1,Q1-2,R1-10,Rcc1-2,RL1,Rrx1,C1-7,rst1,Rtx1,Rusr1,rxled1,stk1,SW1,txled1,U1-2,usrled1,D1-4",
+    "used_designators": "Crst1,Rrst1,s1,ch1,Rusr1,C5v1,J1-3,C33v1,SW1,Rcc1-2,Rrx1,C5ch1,C12v1,A1,led1,#PWR1-13,Q1-2,rst1,R1-10,C1-7,D1-4,txled1,C3.3v1,RL1,Rtx1,stk1,rxled1,C3v1,U1-2,usrled1",
     "variants": []
   },
   "sheets": [

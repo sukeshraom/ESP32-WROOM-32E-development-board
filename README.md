@@ -1,7 +1,10 @@
 # ESP32-WROOM-32E Development Board (Arduino UNO Form Factor)
 
+![ESP32-WROOM-32E Development Board](https://raw.githubusercontent.com/samuk/ESP32-WROOM-32E-development-board/main/Images/esp32.png)
+
 A compact **ESP32-WROOM-32E Development Board** designed in the **Arduino UNO form factor** with a **USB Type-C** interface and **CH340C USB-to-UART** converter. The board combines the versatility of the ESP32 with the familiar Arduino UNO header layout, making it suitable for rapid prototyping and shield-based development.
 
+[View PCB in Kicanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fsamuk%2FESP32-WROOM-32E-development-board%2Ftree%2Fmain%2FKicad)
 ---
 
 ## Features
